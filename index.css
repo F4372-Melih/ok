@@ -1,0 +1,62 @@
+body{
+    background-color: black;
+    color: white;
+}
+.heading{
+    font-family: 'Lobster', cursive;
+    color: red;
+}
+.container{
+    background-color: rgb(26, 23, 23);
+    margin: auto;
+    border-radius: 20px;
+}
+#title{
+    font-size: 90px;
+    text-align: center;
+}
+#span1{
+    color: white;
+}
+#img-div{
+    text-align: center;
+}
+#image{
+    width: 400px;
+    border-radius: 20px;
+    box-shadow: 5px 5px 500px red;
+}
+#info{
+    width: 80%;
+    margin: 20px auto; /*yukarıdan aşağıdan 20px */
+    text-align: justify;
+}
+#marvel{
+    margin-left: 10%;
+    /*width 80% margin auto */
+}
+ul{
+    width: 80%;
+    margin: auto;
+    /* box-sizing: ; html+ da */
+}
+li{
+    font-size: 24px;
+    line-height: 3rem;
+}
+#footer{
+    margin: 2rem;
+    padding: 2rem;
+    text-align: center;
+    font-size: 2rem;
+}
+#link{
+    text-decoration: none;
+    color: white;
+    border: 2px solid darkorange;
+    background-color: black;
+}
+#link:hover{
+    background-color: gray;
+    color: black;
+}
